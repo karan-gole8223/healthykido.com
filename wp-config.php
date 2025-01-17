@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'healthykido' );
 
 /** Database username */
-define( 'DB_USER', 'karan' );
+define( 'DB_USER', 'bqwscuspaq' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'Cool@123' );
